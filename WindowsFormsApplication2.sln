@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{01F324E2-E91E-449A-872D-20762F57853C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_validation_saisie", "exo_validation_saisie\exo_validation_saisie.csproj", "{0334D0F3-F2A4-4A00-AC9E-0A6B3C2D4BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_3_differents_objets_graph", "exo_3_differents_objets_graph\exo_3_differents_objets_graph.csproj", "{7136AF85-94AF-4BFC-B712-DEAE88AE67DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_listbox", "Exo_listbox\Exo_listbox.csproj", "{8F573C23-35E2-4863-B2E3-44892AE7BB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_listbox_combobox", "exo_listbox_combobox\exo_listbox_combobox.csproj", "{E1047E05-9F9E-4988-820A-69BBC368610D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_composant_defilement", "exo_composant_defilement\exo_composant_defilement.csproj", "{64BD86D6-59C3-4E23-B706-2E98B2CB97DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_winform_synthese", "exo_winform_synthese\exo_winform_synthese.csproj", "{BEB351C0-5482-40AA-B831-6156AF7B7FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F324E2-E91E-449A-872D-20762F57853C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F324E2-E91E-449A-872D-20762F57853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F324E2-E91E-449A-872D-20762F57853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F324E2-E91E-449A-872D-20762F57853C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0334D0F3-F2A4-4A00-AC9E-0A6B3C2D4BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0334D0F3-F2A4-4A00-AC9E-0A6B3C2D4BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0334D0F3-F2A4-4A00-AC9E-0A6B3C2D4BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0334D0F3-F2A4-4A00-AC9E-0A6B3C2D4BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7136AF85-94AF-4BFC-B712-DEAE88AE67DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7136AF85-94AF-4BFC-B712-DEAE88AE67DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7136AF85-94AF-4BFC-B712-DEAE88AE67DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7136AF85-94AF-4BFC-B712-DEAE88AE67DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F573C23-35E2-4863-B2E3-44892AE7BB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F573C23-35E2-4863-B2E3-44892AE7BB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F573C23-35E2-4863-B2E3-44892AE7BB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F573C23-35E2-4863-B2E3-44892AE7BB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1047E05-9F9E-4988-820A-69BBC368610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1047E05-9F9E-4988-820A-69BBC368610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1047E05-9F9E-4988-820A-69BBC368610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1047E05-9F9E-4988-820A-69BBC368610D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BD86D6-59C3-4E23-B706-2E98B2CB97DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BD86D6-59C3-4E23-B706-2E98B2CB97DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BD86D6-59C3-4E23-B706-2E98B2CB97DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BD86D6-59C3-4E23-B706-2E98B2CB97DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB351C0-5482-40AA-B831-6156AF7B7FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB351C0-5482-40AA-B831-6156AF7B7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB351C0-5482-40AA-B831-6156AF7B7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB351C0-5482-40AA-B831-6156AF7B7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
